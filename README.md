@@ -81,8 +81,3 @@ Feel free to contribute to this project by opening issues or pull requests. Your
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-```
-
-You can copy and paste this content directly into your project's README.md file on GitHub, replacing `"yourusername"` with your GitHub username in the repository URL, and provide any other necessary project-specific details.
-   
