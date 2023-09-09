@@ -51,7 +51,7 @@ To get started with this project, follow these steps:
 
 ## Database Schema
 
-The project uses an SQLite database with the following schema:
+The project uses an SQLite database with the schema very Similar to this:
 
 - `users` table:
   - `user_id` (Primary Key)
